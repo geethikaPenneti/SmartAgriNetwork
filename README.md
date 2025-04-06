@@ -77,4 +77,4 @@ o Deploy the script as a web app (with doGet and doPost)
 👨‍💼 Developed By
 A passionate developer working to bridge agriculture and tech 🌱 Feel free to connect for collaboration!
 
-License: Open-source, free to use and modify for educational/agricultural purposes.
+License: Open-source, free to use and modify for educational/agricultural purposes
